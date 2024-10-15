@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "spring.mongo.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mongo.uri'"
+  },
+  {
+    "name": "GOOGLE_CLIENT_SECRET",
+    "type": "java.lang.String",
+    "description": "A description for 'GOOGLE_CLIENT_SECRET'"
+  },
+  {
+    "name": "google.auth.server.url",
+    "type": "java.lang.String",
+    "description": "A description for 'google.auth.server.url'"
+  },
+  {
+    "name": "google.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'google.scope'"
+  },
+  {
+    "name": "google.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client-id'"
+  },
+  {
+    "name": "google.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client-secret'"
+  },
+  {
+    "name": "google.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client-secret'"
+  },
+  {
+    "name": "jwt.expiration_time",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration_time'"
+  }
+]}
